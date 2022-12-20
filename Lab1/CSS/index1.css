@@ -1,0 +1,87 @@
+/* style of div which cotain the main buttons */
+.buttons
+{
+    width: 100%;
+    text-align: center;
+}
+
+/* style of main buttons */
+.c1
+{
+    border: 0;
+    width:10%;
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+    background-color: hotpink;
+    border-radius: 15px;
+    box-shadow:  9px hotpink;
+    /* box-shadow: 10px hotpink; */
+}
+
+/* style of "about" which appear after clicking on about button */
+.about
+{
+    height: 300px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px rgb(198, 196, 196);
+    margin-top: 50px;
+}
+
+/*style of "gallery" whhich appear when we click on gallery button  */
+.gallery
+{
+    margin-top: 50px;
+    text-align: center;
+}
+/* style of "<" &"<" img which change the img by clicking on them */
+.slide_btn
+{
+    width: 2%;
+    padding-bottom: 50px;
+}
+
+/* style of image in gallery */
+.gallery .center
+{
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+/* style of services slide */
+.btn_serv
+{
+    display: block;
+    background-color:hotpink ;
+    color: aliceblue;
+    border: 0;
+    margin-top: 0.5px;
+    width:130px;
+    border-radius: 2px;
+}
+#services
+{
+    position: absolute;
+    right: 40%;
+    margin-top: -8px;
+}
+
+/* style of complain */
+#complain_sec,#send_complain
+{
+    text-align: center;
+    width: 40%;
+    box-shadow: 3px 3px 3px 3px rgb(198, 196, 196);
+    margin: auto;
+    margin-top: 50px;
+    padding: 40px;
+}
+
+
+
+
+
+
